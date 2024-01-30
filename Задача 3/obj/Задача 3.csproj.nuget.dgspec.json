@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexandr\\Desktop\\ДЗ Знакомство с языками программирования\\Простые алгоритмы С#\\Homework_on_the_topic_-Simple_Algorithms-\\Задача 1\\Задача 1.csproj": {}
+    "C:\\Users\\Alexandr\\Desktop\\ДЗ Знакомство с языками программирования\\Простые алгоритмы С#\\Homework_on_the_topic_-Simple_Algorithms-\\Задача 3\\Задача 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexandr\\Desktop\\ДЗ Знакомство с языками программирования\\Простые алгоритмы С#\\Homework_on_the_topic_-Simple_Algorithms-\\Задача 1\\Задача 1.csproj": {
+    "C:\\Users\\Alexandr\\Desktop\\ДЗ Знакомство с языками программирования\\Простые алгоритмы С#\\Homework_on_the_topic_-Simple_Algorithms-\\Задача 3\\Задача 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexandr\\Desktop\\ДЗ Знакомство с языками программирования\\Простые алгоритмы С#\\Homework_on_the_topic_-Simple_Algorithms-\\Задача 1\\Задача 1.csproj",
-        "projectName": "Задача 1",
-        "projectPath": "C:\\Users\\Alexandr\\Desktop\\ДЗ Знакомство с языками программирования\\Простые алгоритмы С#\\Homework_on_the_topic_-Simple_Algorithms-\\Задача 1\\Задача 1.csproj",
+        "projectUniqueName": "C:\\Users\\Alexandr\\Desktop\\ДЗ Знакомство с языками программирования\\Простые алгоритмы С#\\Homework_on_the_topic_-Simple_Algorithms-\\Задача 3\\Задача 3.csproj",
+        "projectName": "Задача 3",
+        "projectPath": "C:\\Users\\Alexandr\\Desktop\\ДЗ Знакомство с языками программирования\\Простые алгоритмы С#\\Homework_on_the_topic_-Simple_Algorithms-\\Задача 3\\Задача 3.csproj",
         "packagesPath": "C:\\Users\\Alexandr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexandr\\Desktop\\ДЗ Знакомство с языками программирования\\Простые алгоритмы С#\\Homework_on_the_topic_-Simple_Algorithms-\\Задача 1\\obj\\",
+        "outputPath": "C:\\Users\\Alexandr\\Desktop\\ДЗ Знакомство с языками программирования\\Простые алгоритмы С#\\Homework_on_the_topic_-Simple_Algorithms-\\Задача 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexandr\\AppData\\Roaming\\NuGet\\NuGet.Config"
