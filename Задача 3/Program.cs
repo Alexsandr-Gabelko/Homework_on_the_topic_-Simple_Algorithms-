@@ -10,6 +10,6 @@ int number1 = int_number / 10;
 int number2 = int_number % 10;
 
 if (number1 > number2)
-    Console.Write(number1); 
+    Console.Write(number1);
 else
     Console.Write(number2);

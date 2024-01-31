@@ -6,12 +6,9 @@ Console.Write("Введите число: ");
 string number = Console.ReadLine()!;
 int int_number = int.Parse(number);
 
-if (int_number % 7 == 0 && int_number % 23 == 0)  
-    {
+if (int_number % 7 == 0 && int_number % 23 == 0)
     Console.WriteLine("да");
-    }
-else 
-    {
+else
     Console.WriteLine("нет");
-    }
+
 

@@ -14,13 +14,13 @@ string Y = Console.ReadLine()!;
 int int_Y = int.Parse(Y);
 
 if (int_X > 0 && int_Y > 0)
-    Console.WriteLine("1");  
+    Console.WriteLine("1");
 
 if (int_X < 0 && int_Y > 0)
-    Console.WriteLine("2");  
+    Console.WriteLine("2");
 
 if (int_X < 0 && int_Y < 0)
     Console.WriteLine("3");
 
 if (int_X > 0 && int_Y < 0)
-    Console.WriteLine("4");  
+    Console.WriteLine("4");
