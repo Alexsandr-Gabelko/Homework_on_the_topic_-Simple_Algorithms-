@@ -2,7 +2,7 @@
 на вход целое число из отрезка [10, 99] и показывает
 наибольшую цифру числа.                  */
 
-Console.Write("Введите число: ");
+Console.Write("Введите целое число из отрезка [10, 99]: ");
 string number = Console.ReadLine()!;
 int int_number = int.Parse(number);
 
